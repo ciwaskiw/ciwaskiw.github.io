@@ -2,6 +2,8 @@
 title: This is my title
 layout: default
 ---
+<a href="./">Back to Main</a>
+
 Christopher Iwaskiw
 
 Revision 2
