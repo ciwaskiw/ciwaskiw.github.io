@@ -1,15 +1,7 @@
 ---
-title: This is my title
-layout: default
+title: Notes on Sleeping
 ---
-<a href="./">Back to Main</a>
 
-Christopher Iwaskiw
-
-Revision 2
-
-<center style="color:lightgreen"><h2>Notes on Sleeping</h2></center>
-<br/>
 <center style="color:lightgreen">1:00AM – *If I mess this up, tomorrow night will be worse…*</center>
 <br/>
 I&nbsp;know&nbsp;that&nbsp;&nbsp;&nbsp;&nbsp;I&nbsp;need&nbsp;to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fall&nbsp;asleep&nbsp;&nbsp;&nbsp;&nbsp;but&nbsp;&nbsp;&nbsp;my&nbsp;body&nbsp;thinks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it’s&nbsp;1:00PM&nbsp;&nbsp;
