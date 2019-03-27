@@ -1,14 +1,18 @@
 ---
 layout: default
 ---
-<head>
-</head>
-<body>
-	<h2> --- ~ Welcome to Chris Iwaskiw dot Dev ~ --- </h2>
-	<br />
-	<a href="poems">Poems</a>
-	<br />
-	<a href="cool-links">Cool Links!</a>
-	<br />
-	<a href="playlists">Playlists!</a>
-</body>
+<h2> --- ~ Welcome to Chris Iwaskiw dot Dev ~ --- </h2>
+<br />
+<a href="poems">Poems</a>
+<br />
+<a href="cool-links">Cool Links!</a>
+<br />
+<a href="playlists">Playlists!</a>
+<br />
+<ul>
+    {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+    {% endfor %}
+</ul>
