@@ -1,5 +1,20 @@
-<div id="title">
-	<h1>{{ site.title | default: site.github.repository_name }}</h1>
-	<p>{{ site.description | default: site.github.project_tagline }}</p>
+<head>
+	<link rel="stylesheet" href="/assets/css/header.css" />
+</head>
+<div>
+	<div>
+		<a href="/">
+			<b class="header-title">
+				{{ site.title }}
+			</b>
+		</a>
+		<span class="header-links">
+			<a href="poems">Poems </a>
+			•
+			<a href="cool-links"> Cool Links! </a>
+			•
+			<a href="playlists"> Playlists!</a>
+		</span>
+	</div>
 	<hr>
 </div>

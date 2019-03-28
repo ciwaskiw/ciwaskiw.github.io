@@ -3,12 +3,18 @@
 
 @import "{{ site.theme }}";
 
+header {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
 body {
-	margin-left: 25%;
-	margin-right: 25%;
+	margin-left: 20%;
+	margin-right: 20%;
 	color: #333;
 	background-color: white;
 	font-family: "PT Serif", Georgia, "Times New Roman", serif;
+	font-size: 1.25rem;
 }
 
 h1 {
@@ -21,4 +27,12 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.25;
 	margin-top: 1em;
 	margin-bottom: .5em;	
+}
+
+p {
+	line-height: 1.5;
+}
+
+ul {
+	padding-left: 30px;
 }

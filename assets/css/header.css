@@ -1,0 +1,17 @@
+.header-title {
+	float: left;
+	font-family: "Lato","Helvetica Neue",Helvetica,sans-serif;
+    font-weight: 900;
+    margin-top: 1rem;
+	margin-bottom: .5rem;
+	color: #333;
+}
+
+.header-links {
+	float: right;
+	margin-top: 1rem;
+	margin-bottom: .5rem;
+}
+hr {
+	clear: both;
+}
