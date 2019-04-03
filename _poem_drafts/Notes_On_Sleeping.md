@@ -2,7 +2,7 @@
 title: Notes on Sleeping
 ---
 
-<center style="color:lightgreen">1:00AM – *If I mess this up, tomorrow night will be worse…*</center>
+<center>1:00AM – *If I mess this up, tomorrow night will be worse…*</center>
 <br/>
 I&nbsp;know&nbsp;that&nbsp;&nbsp;&nbsp;&nbsp;I&nbsp;need&nbsp;to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fall&nbsp;asleep&nbsp;&nbsp;&nbsp;&nbsp;but&nbsp;&nbsp;&nbsp;my&nbsp;body&nbsp;thinks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it’s&nbsp;1:00PM&nbsp;&nbsp;
 &nbsp;&nbsp;After&nbsp;all,&nbsp;&nbsp;&nbsp;&nbsp;how&nbsp;could&nbsp;my&nbsp;&nbsp;&nbsp;&nbsp;body&nbsp;know&nbsp;otherwise&nbsp;&nbsp;&nbsp;&nbsp;It’s&nbsp;not&nbsp;like&nbsp;it’s&nbsp;&nbsp;
@@ -12,11 +12,11 @@ I&nbsp;know&nbsp;that&nbsp;&nbsp;&nbsp;&nbsp;I&nbsp;need&nbsp;to&nbsp;&nbsp;&nbs
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;body&nbsp;clock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;would&nbsp;just&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sync&nbsp;up&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with&nbsp;my&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alarm&nbsp;clock.
 <br/>
-<center style="color:lightgreen">1:30AM – *Can’t stop thinking…*</center>
+<center>1:30AM – *Can’t stop thinking…*</center>
 <br/>
 randomly accessing flashes of sentimental memory grasping desperately for a thought to latch on to trying to place the history of my life into a grand perspective in an attempt to explain why this insignificant dead instant when everyone near me is unconscious seems like the most significant lively moment, the culmination, intersection, combination of all contemplation, inspiration, and consciousness.
 <br/>
-<center style="color:lightgreen">2:00AM – *But I don’t feel drowsy*</center>
+<center>2:00AM – *But I don’t feel drowsy*</center>
 <br/>
 Why do we close our eyes  
 even when it is already dark?  
@@ -37,7 +37,7 @@ I cannot see
 in a salty pool  
 of frustration.  
 <br/>
-<center style="color:lightgreen">2:30AM – *Can’t give up. Stop looking at the clocks…*</center>
+<center>2:30AM – *Can’t give up. Stop looking at the clocks…*</center>
 <br/>
 Flipping fabrics  
 Folding fabrics  
@@ -51,7 +51,7 @@ Fleshy
 Fragile  
 Fester  
 <br/>
-<center style="color:lightgreen">3:00AM – *I give up…*</center>
+<center>3:00AM – *I give up…*</center>
 <br/>
 And as the thoughts dissolve  
 As the brainwaves melt into dreams  

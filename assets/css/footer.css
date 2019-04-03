@@ -1,0 +1,25 @@
+.site-footer {
+	display: flex;
+	height: 10%;
+	align-items: center;
+	padding: 0;
+	list-style-type: none;
+	flex-flow: row wrap;
+	margin-top: 1em;
+}
+
+.footer-left {
+	list-style-type: none;
+}
+
+.footer-center {
+    margin-right: auto;
+    margin-left: auto;
+}
+.footer-center img {
+    height: 4em;
+    width: auto;
+}
+
+.footer-right {
+}

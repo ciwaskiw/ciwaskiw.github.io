@@ -2,9 +2,8 @@
 layout: default
 ---
 
-<h2>Poem Drafts</h2>
 {% for poem_draft in site.poem_drafts %}
-  <hr>
+  
   <h2>{{ poem_draft.title }}</h2>
   <p>{{ poem_draft.content | markdownify }}</p>
 {% endfor %}
