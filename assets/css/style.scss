@@ -3,15 +3,41 @@
 
 @import "{{ site.theme }}";
 
-body {
-	margin-left: 18%;
-	margin-right: 18%;
-	color: #333;
-	background-color: white;
-	font-family: "PT Serif", Georgia, "Times New Roman", serif;
-	font-size: 1.25rem;
+html {
+	@media screen and (min-width: 32em) {
+		body {
+			font-size: 20px;
+		}
+	}
+	
+	@media screen and (min-width: 48em) {
+		body {
+			font-size: 22px;
+		}
+	}
+	
+	@media screen and (min-width: 64em) {
+		body {
+			font-size: 24px;
+		}
+	}
+	
 }
 
+
+body {
+	padding-left: 2rem;	
+	padding-right: 2rem;
+	margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    max-width: 55rem;
+	color: #333;
+	background-color: white;
+	font-family: "Georgia","Times New Roman",serif;
+	font-size: 100%;
+}
 
 h1 {
 	font-size: 2.998rem
