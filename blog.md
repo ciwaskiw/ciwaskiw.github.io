@@ -1,14 +1,7 @@
 ---
 layout: default
 ---
-<br />
-<a href="poems">Poems</a>
-<br />
-<a href="cool-links">Cool Links!</a>
-<br />
-<a href="playlists">Playlists!</a>
-<br />
-<h2>Blogs</h2>
+<h1>Blogs</h1>
 <ul>
     {% for post in site.posts %}
         <li>
