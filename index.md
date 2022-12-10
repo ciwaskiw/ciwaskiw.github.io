@@ -7,8 +7,9 @@ Welcome to my website! I'm a software developer and aspiring creative.  This web
 This site uses a framework called Jekyll, mixing HTML, Markdown, and Liquid.
 
 - <a href="https://www.linkedin.com/in/christopher-iwaskiw-23b606a8/">LinkedIn</a>
+- <a href="https://github.com/ciwaskiw">Github</a>
+- <a href="https://skiw.itch.io/">Itch.io</a>
 
-</div>
 
               
 
