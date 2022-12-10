@@ -1,20 +1,27 @@
 ---
 layout: default
 ---
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-Welcome to my website!  I'm under construction right now, but I'm using the 
-construction to hone my web design skills.  This site uses a framework 
-called <a href="https://jekyllrb.com">Jekyll</a>, mixing HTML, Markdown, and
-Liquid.
+<div style="display:flex;flex-wrap:wrap;">
 
-Here's what I expect to have on this website:
 
-- Personal portfolio/resume
-- Creations (music or poetry)
-- Blogs (likely music, technology, and math related)
-- Other cool things (such as playlists and cool links!)  
+<div style="flex:50%;padding:5px;">
+Welcome to my website! I'm a software developer and aspiring creative.  This website is one of my personal projects!
 
-Keep an eye out for updates!
+This site uses a framework called Jekyll, mixing HTML, Markdown, and Liquid.
+<br/>
+</div>
+
+<div style="flex:25%;">
+    <div style="float:right;" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="christopher-iwaskiw-23b606a8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/christopher-iwaskiw-23b606a8?trk=profile-badge"></a></div>
+</div>
+
+
+
+</div>
+
+              
 
         
 
