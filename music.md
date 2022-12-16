@@ -7,9 +7,9 @@ I'm most active on Youtube!
 
  <br/>
 <div style="text-align: center">
+    <a href="https://open.spotify.com/artist/3MmLx4F3RFtAHf5PtEahuA?si=7P-d2QaqR9qFKgDGEQbZwA" class="fa fa-social fa-spotify"></a>
     <a href="https://soundcloud.com/skiw-mixes" class="fa fa-social fa-soundcloud"></a>
     <a href="https://www.youtube.com/@skiw3779" class="fa fa-social fa-youtube"></a>
-    <a href="https://skiw.bandcamp.com" class="fa fa-social fa-bandcamp"></a>
 </div>
 
 <br/>
